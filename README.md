@@ -1,1 +1,1 @@
-Source code for a fully playable Python implementation of classical Connect Four. Command line version is available in terminal_only.py, and GUI version is available in main.py. Both versions were built using NumPy, and the GUI was built using Pygame and PyAutoGUI.
+Source code for a fully playable Python implementation of classic Connect Four. Command line version is available in terminal_only.py, and GUI version is available in main.py. Both versions were built using NumPy, and the GUI was built using Pygame and PyAutoGUI.
