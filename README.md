@@ -6,10 +6,6 @@ A fully playable Python implementation of the classic Connect Four game, featuri
 
 This project delivers a complete Connect 4 gaming experience through two distinct interfaces: a streamlined terminal version for quick gameplay and a rich GUI version with visual animations and enhanced user interaction. Built with modern Python libraries, the implementation focuses on clean code architecture and optimal user experience.
 
-### Key Achievements
-- **Dual Interface Design** - Terminal and GUI versions for different user preferences
-- **Intelligent Game Logic** - Robust win detection and game state management
-
 ## Architecture
 
 ```
@@ -56,11 +52,6 @@ Game Engine → Interface Layer → User Interaction → Visual Rendering
 - **Win Detection Algorithm**: Optimized pattern matching across all directions
 - **Move Validation**: Comprehensive checking for valid column placement
 
-### Performance Optimizations
-- **NumPy Integration**: Vectorized operations for fast board calculations
-- **Efficient Algorithms**: O(1) move validation and O(n) win detection
-- **Memory Management**: Optimized data structures for minimal overhead
-
 ## Getting Started
 
 ### Prerequisites
@@ -101,15 +92,6 @@ python terminal_only.py
 2. Enter column number (1-7) when prompted
 3. View updated board after each move
 4. Game announces winner or draw condition
-
-## Technical Skills Demonstrated
-
-- **Python Programming**: Advanced use of Python features and libraries
-- **Game Development**: Understanding of game loops and state management
-- **GUI Development**: Creating responsive user interfaces with Pygame
-- **Algorithm Design**: Efficient win detection and game logic
-- **Code Architecture**: Clean, maintainable code structure
-- **User Experience**: Intuitive interface design for both terminal and GUI
 
 ---
 
