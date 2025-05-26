@@ -102,18 +102,6 @@ python terminal_only.py
 3. View updated board after each move
 4. Game announces winner or draw condition
 
-## Technical Highlights
-
-### Code Quality Features
-- **Modular Design**: Clear separation between game logic and interface
-- **Error Handling**: Comprehensive input validation and exception management
-- **Scalability**: Architecture supports easy feature additions
-
-### Algorithm Efficiency
-- **Smart Win Detection**: Checks only necessary positions after each move
-- **Optimized Data Structures**: NumPy arrays for fast board operations
-- **Memory Efficient**: Minimal memory footprint for game state
-
 ## Technical Skills Demonstrated
 
 - **Python Programming**: Advanced use of Python features and libraries
