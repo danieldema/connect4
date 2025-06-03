@@ -1,6 +1,6 @@
 # Connect 4 Game Implementation
 
-A fully playable Python implementation of the classic Connect Four game, featuring both command-line and GUI versions with intelligent game mechanics and user-friendly interfaces.
+A complete Python recreation of the classic Connect Four game, available in both command-line and GUI formats, showcasing intelligent gameplay mechanics and an intuitive user experience.
 
 ## Project Overview
 
